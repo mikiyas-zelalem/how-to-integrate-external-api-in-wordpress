@@ -8,7 +8,7 @@ In this guide, I'll walk you through the complete setup process.
 
 
 
-# What is API Integration?
+## What is API Integration?
 
 API integration is the process of connecting different software applications to exchange data and communicate with each other seamlessly. 
 
